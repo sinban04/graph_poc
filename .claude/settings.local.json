@@ -5,7 +5,22 @@
       "Bash(pip3 install:*)",
       "Bash(python3:*)",
       "Bash(source venv/bin/activate)",
-      "Bash(python recommendation_poc.py:*)"
+      "Bash(python recommendation_poc.py:*)",
+      "Bash(nc:*)",
+      "Bash(docker:*)",
+      "Bash(mdfind:*)",
+      "Bash(brew list:*)",
+      "Bash(brew install:*)",
+      "Bash(neo4j-admin dbms set-initial-password:*)",
+      "Bash(neo4j start:*)",
+      "Bash(for:*)",
+      "Bash(do nc -z localhost 7687)",
+      "Bash(break)",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(./venv/bin/python:*)",
+      "Bash(open http://localhost:7474)",
+      "Bash(neo4j status:*)"
     ]
   }
 }
